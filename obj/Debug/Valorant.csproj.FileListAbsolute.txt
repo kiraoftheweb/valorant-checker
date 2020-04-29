@@ -1,0 +1,9 @@
+C:\Users\Natha\Desktop\Valorant Checker Source\Valorant\obj\Debug\Valorant.csprojAssemblyReference.cache
+C:\Users\Natha\Desktop\Valorant Checker Source\Valorant\obj\Debug\Valorant.csproj.CoreCompileInputs.cache
+C:\Users\Natha\Desktop\Valorant Checker Source\Valorant\bin\Debug\Valorant.exe
+C:\Users\Natha\Desktop\Valorant Checker Source\Valorant\bin\Debug\Valorant.pdb
+C:\Users\Natha\Desktop\Valorant Checker Source\Valorant\bin\Debug\Colorful.Console.dll
+C:\Users\Natha\Desktop\Valorant Checker Source\Valorant\bin\Debug\Leaf.xNet.dll
+C:\Users\Natha\Desktop\Valorant Checker Source\Valorant\obj\Debug\Valorant.csproj.CopyComplete
+C:\Users\Natha\Desktop\Valorant Checker Source\Valorant\obj\Debug\Valorant.exe
+C:\Users\Natha\Desktop\Valorant Checker Source\Valorant\obj\Debug\Valorant.pdb
